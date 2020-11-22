@@ -7,9 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>index</h1>
-	<!-- <img src="image/test_IU.jpg"> -->
-	<a href="test1">test1</a></br>
-	<a href="result1">result1</a>
+<h1>test1</h1>
 </body>
 </html>
